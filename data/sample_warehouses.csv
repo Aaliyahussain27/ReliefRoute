@@ -1,0 +1,4 @@
+id,name,lat,lng,food_stock_kg,water_stock_l,medical_kits,dispatch_capacity_kg_per_day,operating_status
+WH-01,Northern Central Logistics Hub,14.6200,120.9900,16000.0,38000.0,350.0,30000.0,Active
+WH-02,Eastern Disaster Reserve Depot,14.6050,121.0700,11500.0,24000.0,240.0,20000.0,Active
+WH-03,Southern Coastal Maritime Stockpile,14.5200,120.9850,8500.0,18000.0,160.0,15000.0,Active

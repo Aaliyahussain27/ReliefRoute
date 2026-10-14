@@ -1,0 +1,9 @@
+id,name,lat,lng,affected_population,vulnerability_score,urgency_level,medical_emergency_count,is_accessible,road_closure_notes,local_food_stock_kg,local_water_stock_l,local_medical_kits
+RC-01,North Haven Community Shelter,14.6520,120.9650,3200,0.45,High,8,true,Primary bypass highway open,200.0,600.0,5.0
+RC-02,San Miguel Parish Evacuation Center,14.6150,121.0120,5400,0.65,High,14,true,Arterial road passable,350.0,1200.0,10.0
+RC-03,River Valley Civic Gymnasium,14.5800,121.0850,6800,0.88,Critical,42,true,Single-lane bridge priority,100.0,400.0,2.0
+RC-04,Barangay Central Elementary Camp,14.5500,121.0350,2900,0.35,Medium,4,true,Urban avenues fully open,150.0,800.0,8.0
+RC-05,Delta Island Fisherfolk Compound,14.4920,120.9400,2100,0.92,Critical,18,false,Causeway submerged under 1.8m surge; land vehicles blocked,50.0,150.0,1.0
+RC-06,Mountain Ridge Highland Chapel,14.6850,121.1200,1850,0.75,High,9,true,Steep mountain pass,80.0,250.0,3.0
+RC-07,Southside Vocational Stadium,14.5150,121.0650,4100,0.40,Medium,6,true,South corridor functional,300.0,1000.0,12.0
+RC-08,Sunrise Hills Secondary School,14.6400,120.9100,1600,0.25,Low,1,true,Coastal highway north open,120.0,500.0,6.0
